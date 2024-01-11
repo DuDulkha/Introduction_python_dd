@@ -1,0 +1,10 @@
+IFS.csv*/result/
+*/ppt/*
+!*/ppt/*.pdf
+!*/ppt/*.tex
+!*/ppt/figures/
+*.pyc
+*.pyo
+/note.py
+.ipynb_checkpoints/
+7_Data_cleaning/data/
